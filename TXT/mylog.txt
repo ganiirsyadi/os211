@@ -6,3 +6,4 @@ ZCZC W00 30 L01 Scele: Participating at pop quiz and reading forums
 ZCZC W00 5 L23 Discord: Registering, Reading Rules and discussions
 ZCZC W00 80 L23 Discord: Discussion about browsers
 ZCZC W00 30 L01 Scele: Replying quiz
+ZCZC W00 60 L06 Reading References/Books/Documents
