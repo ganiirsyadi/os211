@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vslm.org/ETC/logcodes.txt
+ZCZC W00 100 L02 Synchronous Session
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 30 L01 Scele: Participating at pop quiz and reading forums
 ZCZC W00 5 L23 Discord: Registering, Reading Rules and discussions
