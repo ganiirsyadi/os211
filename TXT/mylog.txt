@@ -13,3 +13,7 @@ ZCZC W01 120 L02 Zoom Synchronous Session
 ZCZC W01 30 L06 Reading Week01 Slide
 ZCZC W01 60 L21 Downloading debian and installing virtualbox
 ZCZC W01 150 L11 Assignment #1
+ZCZC W01 60 L12 Assignment #2
+ZCZC W01 60 L13 Assignment #3
+ZCZC W01 30 L14 Assignment #4
+ZCZC W01 60 L15 Assignment #5
