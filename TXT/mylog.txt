@@ -20,6 +20,8 @@ ZCZC W01 60 L15 Assignment #5
 ZCZC W01 90 L06 Reading Documents
 ZCZC W01 15 L23 Pop Quiz W01 on Discord
 ZCZC W01 15 L16 Assignment #6
-ZCZC W01 45 L17 Assignment #7
+ZCZC W01 120 L05 GSGS related
+ZCZC W01 30 L17 Assignment #7
+ZCZC W01 45 L18 Assignment #8
 ZCZC W02 90 L02 Zoom Synchronous Session
 ZCZC W02 30 L06 Reading Week02 Slide
