@@ -32,3 +32,4 @@ ZCZC W02 75 L25 Try Demo Week02 C program
 ZCZC W02 15 L10 Assignment (myrank.txt)
 ZCZC W02 90 L10 Assignment (w02.md)
 ZCZC W02 90 L23 Discord: discussion about assignment
+ZCZC W02 15 L10 Assignment (index.md)
