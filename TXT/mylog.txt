@@ -35,3 +35,7 @@ ZCZC W02 90 L23 Discord: discussion about assignment
 ZCZC W02 15 L10 Assignment (index.md)
 ZCZC W03 120 L02 Zoom Synchronous Session
 ZCZC W03 30 L10 Assignment (myrank.txt)
+ZCZC W03 60 L06 Reading References/Books/Documents
+ZCZC W03 120 L10 Assignment (tarball)
+ZCZC W03 30 L05 GSGS related
+ZCZC W03 30 L09 AsDos: asking
