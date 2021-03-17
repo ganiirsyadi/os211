@@ -39,3 +39,4 @@ ZCZC W03 60 L06 Reading References/Books/Documents
 ZCZC W03 120 L10 Assignment (tarball)
 ZCZC W03 30 L05 GSGS related
 ZCZC W03 30 L09 AsDos: asking
+ZCZC W03 30 L10 Assignment (check signature)
