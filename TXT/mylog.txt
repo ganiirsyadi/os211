@@ -33,3 +33,5 @@ ZCZC W02 15 L10 Assignment (myrank.txt)
 ZCZC W02 90 L10 Assignment (w02.md)
 ZCZC W02 90 L23 Discord: discussion about assignment
 ZCZC W02 15 L10 Assignment (index.md)
+ZCZC W03 120 L02 Zoom Synchronous Session
+ZCZC W03 30 L10 Assignment (myrank.txt)
