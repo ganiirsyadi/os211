@@ -42,3 +42,8 @@ ZCZC W03 30 L09 AsDos: asking
 ZCZC W03 30 L10 Assignment (check signature)
 ZCZC W03 60 L25 Fuse Demo
 ZCZC W03 30 L05 GSGS Related
+ZCZC W04 120 L02 Zoom Synchronous Session
+ZCZC W04 60 L06 Reading References/Books/Documents
+ZCZC W04 60 L10 Assignment WEEK04
+ZCZC W04 180 L05 GSGS Related
+ZCZC W04 150 L10 Assignment top 10 link
