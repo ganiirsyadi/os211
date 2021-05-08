@@ -9,3 +9,4 @@ Hi, I am Gani Ilham Irsyadi. This is repository for Operating System Course 2021
  - [WEEK5](W05/)
  - [WEEK6](W06/)
  - [WEEK7](W07/)
+ - [WEEK8](W08/)
