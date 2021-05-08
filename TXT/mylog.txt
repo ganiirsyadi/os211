@@ -65,3 +65,9 @@ ZCZC W07 90 L23 Discord
 ZCZC W07 30 L10 Assignment (myrank.txt)
 ZCZC W07 180 L10 Assignment (top 10 list)
 ZCZC W07 180 L10 Assignment (week07)
+ZCZC W08 120 L02 Zoom Synchronous Session
+ZCZC W08 120 L05 GSGS Related
+ZCZC W08 90 L23 Discord
+ZCZC W08 30 L10 Assignment (myrank.txt)
+ZCZC W08 180 L10 Assignment (top 10 list)
+ZCZC W08 240 L10 Assignment (week08)
